@@ -177,7 +177,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sty
   \****************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"81dff02eb994a6fe4a81.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/background.jpg?");
+eval("module.exports = __webpack_require__.p + \"1.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/background.jpg?");
 
 /***/ }),
 
@@ -187,7 +187,7 @@ eval("module.exports = __webpack_require__.p + \"81dff02eb994a6fe4a81.jpg\";\n\n
   \*********************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"944a9ea6da645c7c2803.png\";\n\n//# sourceURL=webpack://restaurant-page/./src/burger-with-flying-elements.png?");
+eval("module.exports = __webpack_require__.p + \"2.png\";\n\n//# sourceURL=webpack://restaurant-page/./src/burger-with-flying-elements.png?");
 
 /***/ }),
 
@@ -197,7 +197,7 @@ eval("module.exports = __webpack_require__.p + \"944a9ea6da645c7c2803.png\";\n\n
   \*************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"32992fe9926ce97ce8e3.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/burgeur.jpg?");
+eval("module.exports = __webpack_require__.p + \"3.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/burgeur.jpg?");
 
 /***/ }),
 
@@ -207,7 +207,7 @@ eval("module.exports = __webpack_require__.p + \"32992fe9926ce97ce8e3.jpg\";\n\n
   \*********************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"e69a3fa6703fd93c0d86.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/top-view-burger.jpg?");
+eval("module.exports = __webpack_require__.p + \"4.jpg\";\n\n//# sourceURL=webpack://restaurant-page/./src/top-view-burger.jpg?");
 
 /***/ })
 
